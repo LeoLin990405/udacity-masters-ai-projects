@@ -1,0 +1,36 @@
+[submodule "01-AIPND/pcep-capstone-amazon-reviews"]
+	path = 01-AIPND/pcep-capstone-amazon-reviews
+	url = https://github.com/LeoLin990405/pcep-capstone-amazon-reviews.git
+[submodule "01-AIPND/sentimentscope-imdb"]
+	path = 01-AIPND/sentimentscope-imdb
+	url = https://github.com/LeoLin990405/sentimentscope-imdb.git
+[submodule "02-ML-PyTorch/finding-donors-charityml"]
+	path = 02-ML-PyTorch/finding-donors-charityml
+	url = https://github.com/LeoLin990405/finding-donors-charityml.git
+[submodule "02-ML-PyTorch/image-classifier-cifar10"]
+	path = 02-ML-PyTorch/image-classifier-cifar10
+	url = https://github.com/LeoLin990405/image-classifier-cifar10.git
+[submodule "02-ML-PyTorch/identify-customer-segments"]
+	path = 02-ML-PyTorch/identify-customer-segments
+	url = https://github.com/LeoLin990405/identify-customer-segments.git
+[submodule "03-Data-Analyst/investigate-tmdb-movies"]
+	path = 03-Data-Analyst/investigate-tmdb-movies
+	url = https://github.com/LeoLin990405/investigate-tmdb-movies.git
+[submodule "03-Data-Analyst/real-world-data-wrangling"]
+	path = 03-Data-Analyst/real-world-data-wrangling
+	url = https://github.com/LeoLin990405/real-world-data-wrangling.git
+[submodule "03-Data-Analyst/communicate-data-findings"]
+	path = 03-Data-Analyst/communicate-data-findings
+	url = https://github.com/LeoLin990405/communicate-data-findings.git
+[submodule "04-Statistics/describe-health-sleep-quality"]
+	path = 04-Statistics/describe-health-sleep-quality
+	url = https://github.com/LeoLin990405/describe-health-sleep-quality.git
+[submodule "04-Statistics/basketball-scoring-probabilities"]
+	path = 04-Statistics/basketball-scoring-probabilities
+	url = https://github.com/LeoLin990405/basketball-scoring-probabilities.git
+[submodule "04-Statistics/analyze-ab-test-results"]
+	path = 04-Statistics/analyze-ab-test-results
+	url = https://github.com/LeoLin990405/analyze-ab-test-results.git
+[submodule "04-Statistics/model-salary-regression"]
+	path = 04-Statistics/model-salary-regression
+	url = https://github.com/LeoLin990405/model-salary-regression.git
