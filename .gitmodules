@@ -34,3 +34,6 @@
 [submodule "04-Statistics/model-salary-regression"]
 	path = 04-Statistics/model-salary-regression
 	url = https://github.com/LeoLin990405/model-salary-regression.git
+[submodule "05-Deep-Learning/mnist-digit-classifier"]
+	path = 05-Deep-Learning/mnist-digit-classifier
+	url = https://github.com/LeoLin990405/mnist-digit-classifier.git
